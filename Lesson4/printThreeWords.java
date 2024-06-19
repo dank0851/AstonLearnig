@@ -1,6 +1,6 @@
-public class printThreeWords{ 
+public class printThreeWords{
     // Создайте метод printThreeWords(), который при вызове должен отпечатать в столбец три слова: Orange, Banana, Apple./  
-    public static void main (String args[]){
+    public static void main(String[] args){
           
         System.out.println("Orange");
         System.out.println("Banana");
